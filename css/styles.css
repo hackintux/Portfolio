@@ -2563,6 +2563,21 @@ html {
     color: black;
     text-align: center;
   }
+
+  .htmlcardorange  {
+    font-size: large;
+    background-color: orange;
+    color: black;
+    text-align: center;
+  }
+
+  .pastille  {
+   
+    background-color: green;
+    
+
+  }
+  
   
   .the-cards {
     display: flex;
